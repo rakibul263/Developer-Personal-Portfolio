@@ -217,4 +217,11 @@ footer input[type="text"],[type="email"], footer textarea{
     margin-bottom: 24px;
     border: none;
 }
+.social-media a{
+    margin-right: 10px;
+}
 
+.social-media{
+    padding-left: 6rem;
+    margin-top: 40px;
+}
