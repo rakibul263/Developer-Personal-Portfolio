@@ -115,6 +115,7 @@ main{
     padding:130px 150px;
     text-align: center;
     margin-top: 130px;
+    box-shadow: 2px 3px 4px 4px rgb(200, 200, 200);
 }
 
 .about-items{
@@ -125,6 +126,11 @@ main{
 }
 .item-description{
     font-weight: 600;
+}
+
+button:hover{
+    transition: 1s;
+    box-shadow: 2px 3px 2px 2px rgb(200, 200, 200);
 }
 
 .main-skill{
